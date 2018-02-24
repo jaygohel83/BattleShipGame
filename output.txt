@@ -1,0 +1,12 @@
+Player1 fires missile with target A1 which got MISS
+Player2 fires missile with target A1 which got HIT
+Player2 fires missile with target D4 which got HIT
+Player2 fires missile with target D5 which got HIT
+Player2 fires missile with target A6 which got MISS
+Player1 fires missile with target B2 which got HIT
+Player1 fires missile with target B2 which got HIT
+Player1 fires missile with target B3 which got MISS
+Player2 has no missile left to shoot 
+Player1 fires missile with target C3 which got HIT
+
+Game Draw
